@@ -12,6 +12,7 @@ public class HelloGit {
 		System.out.println("分支项目");
 		System.out.println("随便加点啥");
 		System.out.println("第二个分支项目");
+		System.out.println("分支1添加");
 	}
 
 }
